@@ -1,0 +1,72 @@
+#Pattern Programs
+
+Half Pyramid using *
+*
+* *
+* * *
+* * * *
+* * * * *
+
+Half Pyramid using numbers
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+Half Pyramid using Alphabets
+A
+B B
+C C C
+D D D D
+E E E E E
+
+Inverted Half Pyramid using *
+* * * * *
+* * * *
+* * *
+* *
+*
+
+inverted Half Pyramid using numbers
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+Full Pyramid using *
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+
+Full Pyramid using Numbers
+        1
+      2 3 2
+    3 4 5 4 3
+  4 5 6 7 6 5 4
+5 6 7 8 9 8 7 6 5
+
+Inverted Full pyramid using *
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+
+Pascal's Triangle
+
+           1
+         1   1
+       1   2   1
+     1   3   3    1
+   1  4    6   4   1
+ 1  5   10   10  5   1
+
+ Floyd's Triangle
+1
+2 3
+4 5 6
+7 8 9 10
